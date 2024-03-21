@@ -1,0 +1,17 @@
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_noabate_constraint-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+Constraining abatement to be zero
+Beginning to optimize abatement and savings rates.
+
+Optimization stopped because the <a href = "matlab: helpview('optim','norm_curr_step_fminconip','CSHelpWindow');">relative changes in all elements of x</a> are
+less than <a href = "matlab: helpview('optim','tolx','CSHelpWindow');">options.StepTolerance</a> = 1.000000e-10, but the relative maximum constraint
+violation, 9.699163e-01, exceeds <a href = "matlab: helpview('optim','tol_con','CSHelpWindow');">options.ConstraintTolerance</a> = 1.000000e-10.
+
+
+Consider enabling the interior point method <a href = "matlab: helpview('optim','csh_feasibility_mode','CSHelpWindow');">feasibility mode</a>.
+
+Warning: Optimization may have failed, with exitflag -2
+Time spent optimizing: 0.026341 minutes.
+Max abs equality constraint is 0.0028747

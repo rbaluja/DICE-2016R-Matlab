@@ -14,8 +14,6 @@ iteration_number = iteration_number + 1;
 totalcontrols = numel(controls);
 
 % exogenous variables
-tfp = Params.tfp([tstart:horizon+tstart-1]');
-pop = Params.pop([tstart:horizon+tstart-1]');
 psi = Params.psi([tstart:horizon+tstart-1]');
 sigma = Params.sigma([tstart:horizon+tstart-1]');
 discfactor = Params.discfactor([1:horizon]');
@@ -34,7 +32,8 @@ else
         savingsrate = controls(:,Params.col_savingsrate);
         K = controls(:,Params.col_K);
         T = controls(:,Params.col_T);
-                
+        pop = controls(:,Params.col_pop);
+        
         Ynet = Fun.Ynet(tfp,pop,K,T);
         abatecost = Fun.abatecost(psi,abaterate,tfp,pop,K);
         inv = savingsrate.*( Ynet - abatecost );

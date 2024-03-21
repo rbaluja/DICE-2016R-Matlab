@@ -15,7 +15,7 @@ geq = [];
 if Params.transitionsasconstraints~=1
     
     controls = controls.*Params.normalization;
-    [ ~, Ynet, ~, T, M, emsind, ~, ~, abatecost] = trajectory( controls, tstart, horizon, Fun, Params );    
+    [ ~, Ynet, ~, T, ~, M, emsind, ~, ~, abatecost] = trajectory( controls, tstart, horizon, Fun, Params );    
     
 else
     
@@ -36,12 +36,12 @@ else
     end    
         
     % adjust exogenous variable to start at tstart
-    pop = Params.pop(tstart:tstart+horizon-1,:);
     tfp = Params.tfp(tstart:tstart+horizon-1,:);
     sigma = Params.sigma(tstart:tstart+horizon-1,:);
     psi = Params.psi(tstart:tstart+horizon-1,:);
     
     % calculate other useful variables
+    pop = Fun.popnext(popt, T, -0.0001)
     Ygross = Fun.Ygross(tfp,pop,K);
     emsind = Params.timestep*sigma.*(1-abaterate).*Ygross;
     ems = emsind + Params.timestep*Fun.otherems([tstart:tstart+horizon-1]');

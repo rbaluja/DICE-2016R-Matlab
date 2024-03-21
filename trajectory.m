@@ -21,6 +21,7 @@ C = zeros(horizon,1);
 Ynet = zeros(horizon,1);
 K = zeros(horizon,1);
 T = zeros(horizon,1);
+pop = zeros(horizon,1);
 M = zeros(horizon,length(Params.M0));
 emsind = zeros(horizon,1);
 Tocean = zeros(horizon,1);
@@ -41,6 +42,7 @@ for t=1:horizon
         M(t,:) = Params.M0;
         T(t,1) = Params.T0;
         Tocean(t,1) = Params.Tocean0;
+        pop(t, 1) = Params.L0;
         
     else % transitions
         
@@ -52,21 +54,22 @@ for t=1:horizon
         end
         T(t,1) = Fun.Tnext(T(t-1,1),Tocean(t-1,1),M(t,:),periods_from_start);
         Tocean(t,1) = Fun.Toceannext(T(t-1,1),Tocean(t-1,1));
+        pop(t, 1) = Fun.popnext(pop(t-1,1), T(t, 1), -0.0001);
         
     end
     
     % Determine emissions, output, and consumption
-    Ygross(t,1) = Fun.Ygross(Params.tfp(periods_from_start,1),Params.pop(periods_from_start,1),K(t,1));
+    Ygross(t,1) = Fun.Ygross(Params.tfp(periods_from_start,1), pop(t, 1),K(t,1));
     emsind(t,1) = Params.timestep*Params.sigma(periods_from_start,1)*(1-abaterate(t,1))*Ygross(t,1);
     ems(t,1) = emsind(t,1) + Params.timestep*Fun.otherems(periods_from_start);    
-    Ynet(t,1) = Fun.Ynet(Params.tfp(periods_from_start,1),Params.pop(periods_from_start,1),K(t,1),T(t,1));
-    abatecost(t,1) = Fun.abatecost(Params.psi(periods_from_start,1),abaterate(t,1),Params.tfp(periods_from_start,1),Params.pop(periods_from_start,1),K(t,1));
+    Ynet(t,1) = Fun.Ynet(Params.tfp(periods_from_start,1), pop(t,1) ,K(t,1),T(t,1));
+    abatecost(t,1) = Fun.abatecost(Params.psi(periods_from_start,1),abaterate(t,1),Params.tfp(periods_from_start,1), pop(t, 1),K(t,1));
     if Params.dicelrsavings==1 && periods_from_start >= Params.dicelrsavings_firstper % fixed long-run savings rate for final periods; essentially transversality condition
         inv(t,1) = Params.lrsavingsrate*( Ynet(t,1) - abatecost(t,1) );
     else
         inv(t,1) = savingsrate(t,1)*( Ynet(t,1) - abatecost(t,1) );
     end
-    C(t,1) = Ynet(t,1) - inv(t,1) - Fun.abatecost(Params.psi(periods_from_start,1),abaterate(t,1),Params.tfp(periods_from_start,1),Params.pop(periods_from_start,1),K(t,1));
+    C(t,1) = Ynet(t,1) - inv(t,1) - Fun.abatecost(Params.psi(periods_from_start,1),abaterate(t,1),Params.tfp(periods_from_start,1), pop(t, 1) ,K(t,1));
             
 end % end looping through time
 

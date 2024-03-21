@@ -1,0 +1,56 @@
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_trajectory-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+Beginning to optimize abatement and savings rates.
+
+<a href = "matlab: helpview('optim','solver_stopped_premature','CSHelpWindow');">Solver stopped prematurely</a>.
+
+fmincon stopped because it exceeded the function evaluation limit,
+<a href = "matlab: helpview('optim','max_fun_evals','CSHelpWindow');">options.MaxFunctionEvaluations</a> = 3.000000e+04.
+
+Warning: Optimization may have failed, with exitflag 0
+Time spent optimizing: 2.3256 minutes.
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_trajectory-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+Beginning to optimize abatement and savings rates.
+
+<a href = "matlab: helpview('optim','feasible_better_objective','CSHelpWindow');">Feasible point with lower objective function value found</a>.
+
+
+Optimization stopped because the <a href = "matlab: helpview('optim','norm_curr_step_fminconip','CSHelpWindow');">relative changes in all elements of x</a> are
+less than <a href = "matlab: helpview('optim','tolx','CSHelpWindow');">options.StepTolerance</a> = 1.000000e-10, and the relative maximum constraint
+violation, 0.000000e+00, is less than <a href = "matlab: helpview('optim','tol_con','CSHelpWindow');">options.ConstraintTolerance</a> = 1.000000e-10.
+
+Solved successfully
+Time spent optimizing: 0.58925 minutes.
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_trajectory-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+Beginning to optimize abatement and savings rates.
+
+<a href = "matlab: helpview('optim','solver_stopped_premature','CSHelpWindow');">Solver stopped prematurely</a>.
+
+fmincon stopped because it exceeded the function evaluation limit,
+<a href = "matlab: helpview('optim','max_fun_evals','CSHelpWindow');">options.MaxFunctionEvaluations</a> = 3.000000e+04.
+
+Warning: Optimization may have failed, with exitflag 0
+Time spent optimizing: 1.2049 minutes.
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_trajectory-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+Beginning to optimize abatement and savings rates.
+
+<a href = "matlab: helpview('optim','feasible_better_objective','CSHelpWindow');">Feasible point with lower objective function value found</a>.
+
+
+Optimization stopped because the <a href = "matlab: helpview('optim','norm_curr_step_fminconip','CSHelpWindow');">relative changes in all elements of x</a> are
+less than <a href = "matlab: helpview('optim','tolx','CSHelpWindow');">options.StepTolerance</a> = 1.000000e-10, and the relative maximum constraint
+violation, 0.000000e+00, is less than <a href = "matlab: helpview('optim','tol_con','CSHelpWindow');">options.ConstraintTolerance</a> = 1.000000e-10.
+
+Solved successfully
+Time spent optimizing: 0.18594 minutes.

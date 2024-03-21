@@ -1,0 +1,777 @@
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_constraint-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+Beginning to optimize abatement and savings rates.
+
+Optimization completed: The relative <a href = "matlab: helpview('optim','first_order_opt_con','CSHelpWindow');">first-order optimality measure</a>, 3.115618e-07,
+is less than <a href = "matlab: helpview('optim','optimality_tolerance_msgcsh','CSHelpWindow');">options.OptimalityTolerance</a> = 1.000000e-06, and the relative maximum constraint
+violation, 5.431800e-16, is less than <a href = "matlab: helpview('optim','tol_con','CSHelpWindow');">options.ConstraintTolerance</a> = 1.000000e-10.
+
+Solved successfully
+Time spent optimizing: 0.63694 minutes.
+Max abs equality constraint is 5.4318e-16
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_constraint-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+Beginning to optimize abatement and savings rates.
+
+Optimization completed: The relative <a href = "matlab: helpview('optim','first_order_opt_con','CSHelpWindow');">first-order optimality measure</a>, 7.457782e-08,
+is less than <a href = "matlab: helpview('optim','optimality_tolerance_msgcsh','CSHelpWindow');">options.OptimalityTolerance</a> = 1.000000e-06, and the relative maximum constraint
+violation, 3.971458e-11, is less than <a href = "matlab: helpview('optim','tol_con','CSHelpWindow');">options.ConstraintTolerance</a> = 1.000000e-10.
+
+Solved successfully
+Time spent optimizing: 0.56165 minutes.
+Max abs equality constraint is 3.9715e-11
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_constraint-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+Beginning to optimize abatement and savings rates.
+
+Optimization stopped because the <a href = "matlab: helpview('optim','norm_curr_step_fminconip','CSHelpWindow');">relative changes in all elements of x</a> are
+less than <a href = "matlab: helpview('optim','tolx','CSHelpWindow');">options.StepTolerance</a> = 1.000000e-10, and the relative maximum constraint
+violation, 4.614722e-16, is less than <a href = "matlab: helpview('optim','tol_con','CSHelpWindow');">options.ConstraintTolerance</a> = 1.000000e-10.
+
+Solved successfully
+Time spent optimizing: 0.26086 minutes.
+Max abs equality constraint is 4.6147e-16
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_constraint-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+Beginning to optimize abatement and savings rates.
+
+Optimization completed: The relative <a href = "matlab: helpview('optim','first_order_opt_con','CSHelpWindow');">first-order optimality measure</a>, 4.810568e-08,
+is less than <a href = "matlab: helpview('optim','optimality_tolerance_msgcsh','CSHelpWindow');">options.OptimalityTolerance</a> = 1.000000e-06, and the relative maximum constraint
+violation, 4.054243e-11, is less than <a href = "matlab: helpview('optim','tol_con','CSHelpWindow');">options.ConstraintTolerance</a> = 1.000000e-10.
+
+Solved successfully
+Time spent optimizing: 0.74329 minutes.
+Max abs equality constraint is 3.0699e-09
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_constraint-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+Beginning to optimize abatement and savings rates.
+
+Optimization completed: The relative <a href = "matlab: helpview('optim','first_order_opt_con','CSHelpWindow');">first-order optimality measure</a>, 9.727818e-08,
+is less than <a href = "matlab: helpview('optim','optimality_tolerance_msgcsh','CSHelpWindow');">options.OptimalityTolerance</a> = 1.000000e-06, and the relative maximum constraint
+violation, 5.242018e-11, is less than <a href = "matlab: helpview('optim','tol_con','CSHelpWindow');">options.ConstraintTolerance</a> = 1.000000e-10.
+
+Solved successfully
+Time spent optimizing: 0.57229 minutes.
+Max abs equality constraint is 5.242e-11
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_constraint-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+Beginning to optimize abatement and savings rates.
+
+Optimization completed: The relative <a href = "matlab: helpview('optim','first_order_opt_con','CSHelpWindow');">first-order optimality measure</a>, 1.032064e-08,
+is less than <a href = "matlab: helpview('optim','optimality_tolerance_msgcsh','CSHelpWindow');">options.OptimalityTolerance</a> = 1.000000e-06, and the relative maximum constraint
+violation, 7.365278e-11, is less than <a href = "matlab: helpview('optim','tol_con','CSHelpWindow');">options.ConstraintTolerance</a> = 1.000000e-10.
+
+Solved successfully
+Time spent optimizing: 1.3059 minutes.
+Max abs equality constraint is 7.3653e-11
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_constraint-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+Beginning to optimize abatement and savings rates.
+
+Optimization completed: The relative <a href = "matlab: helpview('optim','first_order_opt_con','CSHelpWindow');">first-order optimality measure</a>, 6.149282e-08,
+is less than <a href = "matlab: helpview('optim','optimality_tolerance_msgcsh','CSHelpWindow');">options.OptimalityTolerance</a> = 1.000000e-06, and the relative maximum constraint
+violation, 1.974190e-11, is less than <a href = "matlab: helpview('optim','tol_con','CSHelpWindow');">options.ConstraintTolerance</a> = 1.000000e-10.
+
+Solved successfully
+Time spent optimizing: 1.0375 minutes.
+Max abs equality constraint is 1.9742e-11
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_constraint-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+Beginning to optimize abatement and savings rates.
+
+Optimization completed: The relative <a href = "matlab: helpview('optim','first_order_opt_con','CSHelpWindow');">first-order optimality measure</a>, 6.586637e-09,
+is less than <a href = "matlab: helpview('optim','optimality_tolerance_msgcsh','CSHelpWindow');">options.OptimalityTolerance</a> = 1.000000e-06, and the relative maximum constraint
+violation, 4.080702e-12, is less than <a href = "matlab: helpview('optim','tol_con','CSHelpWindow');">options.ConstraintTolerance</a> = 1.000000e-10.
+
+Solved successfully
+Time spent optimizing: 1.4681 minutes.
+Max abs equality constraint is 4.0807e-12
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_constraint-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+Beginning to optimize abatement and savings rates.
+
+Optimization completed: The relative <a href = "matlab: helpview('optim','first_order_opt_con','CSHelpWindow');">first-order optimality measure</a>, 4.453050e-07,
+is less than <a href = "matlab: helpview('optim','optimality_tolerance_msgcsh','CSHelpWindow');">options.OptimalityTolerance</a> = 1.000000e-06, and the relative maximum constraint
+violation, 6.061436e-11, is less than <a href = "matlab: helpview('optim','tol_con','CSHelpWindow');">options.ConstraintTolerance</a> = 1.000000e-10.
+
+Solved successfully
+Time spent optimizing: 1.4776 minutes.
+Max abs equality constraint is 6.0614e-11
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_constraint-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+Beginning to optimize abatement and savings rates.
+
+Optimization completed: The relative <a href = "matlab: helpview('optim','first_order_opt_con','CSHelpWindow');">first-order optimality measure</a>, 1.966080e-08,
+is less than <a href = "matlab: helpview('optim','optimality_tolerance_msgcsh','CSHelpWindow');">options.OptimalityTolerance</a> = 1.000000e-06, and the relative maximum constraint
+violation, 3.037865e-11, is less than <a href = "matlab: helpview('optim','tol_con','CSHelpWindow');">options.ConstraintTolerance</a> = 1.000000e-10.
+
+Solved successfully
+Time spent optimizing: 0.49057 minutes.
+Max abs equality constraint is 3.0379e-11
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+[Warning: Unable to save App Designer app object. Save not supported for matlab.apps.AppBase objects.] 
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_constraint-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+Beginning to optimize abatement and savings rates.
+
+Optimization completed: The relative <a href = "matlab: helpview('optim','first_order_opt_con','CSHelpWindow');">first-order optimality measure</a>, 1.320356e-10,
+is less than <a href = "matlab: helpview('optim','optimality_tolerance_msgcsh','CSHelpWindow');">options.OptimalityTolerance</a> = 1.000000e-06, and the relative maximum constraint
+violation, 5.645279e-12, is less than <a href = "matlab: helpview('optim','tol_con','CSHelpWindow');">options.ConstraintTolerance</a> = 1.000000e-10.
+
+Solved successfully
+Time spent optimizing: 2.1537 minutes.
+Max abs equality constraint is 5.6453e-12
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_constraint-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+Beginning to optimize abatement and savings rates.
+
+Optimization completed: The relative <a href = "matlab: helpview('optim','first_order_opt_con','CSHelpWindow');">first-order optimality measure</a>, 7.646009e-08,
+is less than <a href = "matlab: helpview('optim','optimality_tolerance_msgcsh','CSHelpWindow');">options.OptimalityTolerance</a> = 1.000000e-06, and the relative maximum constraint
+violation, 1.117028e-11, is less than <a href = "matlab: helpview('optim','tol_con','CSHelpWindow');">options.ConstraintTolerance</a> = 1.000000e-10.
+
+Solved successfully
+Time spent optimizing: 1.5067 minutes.
+Max abs equality constraint is 1.117e-11
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_constraint-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+Beginning to optimize abatement and savings rates.
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('fmincon')" style="font-weight:bold">fmincon</a>
+Initial point contains complex values. Fmincon cannot continue.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_dice2016r', '/Users/robert/Documents/GitHub/DICE-2016R-Matlab/main_dice2016r.m', 242)" style="font-weight:bold">main_dice2016r</a> (<a href="matlab: opentoline('/Users/robert/Documents/GitHub/DICE-2016R-Matlab/main_dice2016r.m',242,0)">line 242</a>)
+        [out_controls,fval,exitflag,outputstruct,lambdastruct,gradient,hessian] = fmincon(objective,guess(:),[],[],[],[],lb(:),ub(:),nonlcon,Params.optimize_options_list);
+} 
+[Warning: <a href="matlab: opentoline('/Users/robert/Documents/GitHub/DICE-2016R-Matlab/Optimal_Climate_Pathway.mlapp',105,18)">File: Optimal_Climate_Pathway.mlapp Line: 105 Column: 18</a>
+'Initialcostofbackstoptechnology2010pertonCO2EditFieldValueChanged' exceeds the MATLAB maximum name
+length of 63 characters and will be truncated to
+'Initialcostofbackstoptechnology2010pertonCO2EditFieldValueChang'.] 
+[Warning: <a href="matlab: opentoline('/Users/robert/Documents/GitHub/DICE-2016R-Matlab/Optimal_Climate_Pathway.mlapp',191,113)">File: Optimal_Climate_Pathway.mlapp Line: 191 Column: 113</a>
+'Initialcostofbackstoptechnology2010pertonCO2EditFieldValueChanged' exceeds the MATLAB maximum name
+length of 63 characters and will be truncated to
+'Initialcostofbackstoptechnology2010pertonCO2EditFieldValueChang'.] 
+main_dice2016r
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_constraint-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+Beginning to optimize abatement and savings rates.
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('fmincon')" style="font-weight:bold">fmincon</a>
+Initial point contains complex values. Fmincon cannot continue.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_dice2016r', '/Users/robert/Documents/GitHub/DICE-2016R-Matlab/main_dice2016r.m', 242)" style="font-weight:bold">main_dice2016r</a> (<a href="matlab: opentoline('/Users/robert/Documents/GitHub/DICE-2016R-Matlab/main_dice2016r.m',242,0)">line 242</a>)
+        [out_controls,fval,exitflag,outputstruct,lambdastruct,gradient,hessian] = fmincon(objective,guess(:),[],[],[],[],lb(:),ub(:),nonlcon,Params.optimize_options_list);
+} 
+[Warning: <a href="matlab: opentoline('/Users/robert/Documents/GitHub/DICE-2016R-Matlab/Optimal_Climate_Pathway.mlapp',105,18)">File: Optimal_Climate_Pathway.mlapp Line: 105 Column: 18</a>
+'Initialcostofbackstoptechnology2010pertonCO2EditFieldValueChanged' exceeds the MATLAB maximum name
+length of 63 characters and will be truncated to
+'Initialcostofbackstoptechnology2010pertonCO2EditFieldValueChang'.] 
+[Warning: <a href="matlab: opentoline('/Users/robert/Documents/GitHub/DICE-2016R-Matlab/Optimal_Climate_Pathway.mlapp',191,113)">File: Optimal_Climate_Pathway.mlapp Line: 191 Column: 113</a>
+'Initialcostofbackstoptechnology2010pertonCO2EditFieldValueChanged' exceeds the MATLAB maximum name
+length of 63 characters and will be truncated to
+'Initialcostofbackstoptechnology2010pertonCO2EditFieldValueChang'.] 
+main_dice2016r
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_constraint-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+Beginning to optimize abatement and savings rates.
+
+Optimization completed: The relative <a href = "matlab: helpview('optim','first_order_opt_con','CSHelpWindow');">first-order optimality measure</a>, 4.015990e-08,
+is less than <a href = "matlab: helpview('optim','optimality_tolerance_msgcsh','CSHelpWindow');">options.OptimalityTolerance</a> = 1.000000e-06, and the relative maximum constraint
+violation, 8.746383e-12, is less than <a href = "matlab: helpview('optim','tol_con','CSHelpWindow');">options.ConstraintTolerance</a> = 1.000000e-10.
+
+Solved successfully
+Time spent optimizing: 1.5299 minutes.
+Max abs equality constraint is 8.7464e-12
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_constraint-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+
+guess =
+
+   1.0e+04 *
+
+    0.0000    0.0000    0.0112    0.0000    0.0000    0.0425    0.0230    0.0870
+    0.0000    0.0000    0.0134    0.0001    0.0000    0.0442    0.0236    0.0870
+    0.0000    0.0000    0.0160    0.0001    0.0000    0.0460    0.0242    0.0871
+    0.0000    0.0000    0.0188    0.0001    0.0000    0.0477    0.0249    0.0871
+    0.0000    0.0000    0.0219    0.0001    0.0000    0.0495    0.0257    0.0872
+    0.0000    0.0000    0.0254    0.0001    0.0000    0.0513    0.0266    0.0872
+    0.0000    0.0000    0.0291    0.0001    0.0000    0.0531    0.0275    0.0873
+    0.0000    0.0000    0.0332    0.0001    0.0000    0.0549    0.0284    0.0873
+    0.0000    0.0000    0.0376    0.0001    0.0000    0.0566    0.0293    0.0874
+    0.0000    0.0000    0.0424    0.0001    0.0000    0.0583    0.0303    0.0875
+    0.0000    0.0000    0.0475    0.0001    0.0000    0.0598    0.0313    0.0876
+    0.0000    0.0000    0.0530    0.0001    0.0000    0.0613    0.0322    0.0877
+    0.0000    0.0000    0.0588    0.0001    0.0000    0.0626    0.0332    0.0878
+    0.0000    0.0000    0.0650    0.0001    0.0000    0.0638    0.0341    0.0879
+    0.0000    0.0000    0.0716    0.0002    0.0000    0.0648    0.0349    0.0880
+    0.0000    0.0000    0.0786    0.0002    0.0000    0.0656    0.0358    0.0881
+    0.0000    0.0000    0.0860    0.0002    0.0000    0.0663    0.0365    0.0882
+    0.0000    0.0000    0.0939    0.0002    0.0000    0.0667    0.0372    0.0883
+    0.0000    0.0000    0.1021    0.0002    0.0000    0.0669    0.0378    0.0885
+    0.0000    0.0000    0.1106    0.0002    0.0000    0.0668    0.0382    0.0886
+    0.0001    0.0000    0.1195    0.0002    0.0000    0.0665    0.0386    0.0887
+    0.0001    0.0000    0.1288    0.0002    0.0001    0.0661    0.0389    0.0889
+    0.0001    0.0000    0.1387    0.0002    0.0001    0.0658    0.0391    0.0890
+    0.0001    0.0000    0.1491    0.0002    0.0001    0.0656    0.0392    0.0892
+    0.0001    0.0000    0.1600    0.0002    0.0001    0.0654    0.0392    0.0893
+    0.0001    0.0000    0.1715    0.0002    0.0001    0.0652    0.0392    0.0894
+    0.0001    0.0000    0.1835    0.0002    0.0001    0.0651    0.0392    0.0896
+    0.0001    0.0000    0.1961    0.0002    0.0001    0.0650    0.0392    0.0897
+    0.0001    0.0000    0.2094    0.0002    0.0001    0.0649    0.0392    0.0899
+    0.0001    0.0000    0.2235    0.0002    0.0001    0.0648    0.0391    0.0900
+    0.0001    0.0000    0.2372    0.0002    0.0001    0.0636    0.0391    0.0902
+    0.0001    0.0000    0.2514    0.0002    0.0001    0.0625    0.0389    0.0903
+    0.0001    0.0000    0.2663    0.0002    0.0001    0.0616    0.0387    0.0904
+    0.0001    0.0000    0.2816    0.0002    0.0001    0.0607    0.0383    0.0906
+    0.0001    0.0000    0.2975    0.0002    0.0001    0.0599    0.0380    0.0907
+    0.0001    0.0000    0.3140    0.0002    0.0001    0.0591    0.0376    0.0908
+    0.0001    0.0000    0.3309    0.0002    0.0001    0.0584    0.0372    0.0910
+    0.0001    0.0000    0.3483    0.0002    0.0001    0.0576    0.0368    0.0911
+    0.0001    0.0000    0.3661    0.0002    0.0001    0.0570    0.0364    0.0912
+    0.0001    0.0000    0.3844    0.0002    0.0001    0.0563    0.0359    0.0914
+    0.0001    0.0000    0.4032    0.0002    0.0001    0.0556    0.0355    0.0915
+    0.0001    0.0000    0.4224    0.0002    0.0001    0.0550    0.0351    0.0916
+    0.0001    0.0000    0.4419    0.0002    0.0001    0.0543    0.0347    0.0917
+    0.0001    0.0000    0.4619    0.0002    0.0001    0.0537    0.0343    0.0918
+    0.0001    0.0000    0.4823    0.0002    0.0001    0.0531    0.0339    0.0919
+    0.0001    0.0000    0.5030    0.0002    0.0001    0.0526    0.0336    0.0920
+    0.0001    0.0000    0.5240    0.0002    0.0001    0.0520    0.0332    0.0921
+    0.0001    0.0000    0.5454    0.0002    0.0001    0.0514    0.0328    0.0922
+    0.0001    0.0000    0.5670    0.0002    0.0001    0.0509    0.0325    0.0923
+    0.0001    0.0000    0.5890    0.0002    0.0001    0.0504    0.0321    0.0924
+    0.0001    0.0000    0.6112    0.0002    0.0001    0.0499    0.0318    0.0925
+    0.0001    0.0000    0.6337    0.0002    0.0001    0.0494    0.0315    0.0926
+    0.0001    0.0000    0.6564    0.0002    0.0001    0.0489    0.0311    0.0927
+    0.0001    0.0000    0.6793    0.0002    0.0001    0.0484    0.0308    0.0927
+    0.0001    0.0000    0.7025    0.0002    0.0001    0.0480    0.0305    0.0928
+    0.0001    0.0000    0.7257    0.0002    0.0001    0.0475    0.0302    0.0929
+    0.0001    0.0000    0.7492    0.0002    0.0001    0.0471    0.0299    0.0930
+    0.0001    0.0000    0.7729    0.0002    0.0001    0.0467    0.0296    0.0930
+    0.0001    0.0000    0.7965    0.0002    0.0001    0.0463    0.0293    0.0931
+    0.0001    0.0000    0.8204    0.0002    0.0001    0.0459    0.0291    0.0932
+    0.0001    0.0000    0.8443    0.0002    0.0001    0.0455    0.0288    0.0933
+    0.0001    0.0000    0.8683    0.0002    0.0001    0.0451    0.0286    0.0933
+    0.0001    0.0000    0.8924    0.0001    0.0001    0.0448    0.0283    0.0934
+    0.0001    0.0000    0.9166    0.0001    0.0001    0.0444    0.0281    0.0934
+    0.0001    0.0000    0.9408    0.0001    0.0001    0.0441    0.0278    0.0935
+    0.0001    0.0000    0.9648    0.0001    0.0001    0.0438    0.0276    0.0936
+    0.0001    0.0000    0.9889    0.0001    0.0001    0.0434    0.0274    0.0936
+    0.0001    0.0000    1.0130    0.0001    0.0001    0.0431    0.0272    0.0937
+    0.0001    0.0000    1.0370    0.0001    0.0001    0.0428    0.0270    0.0937
+    0.0001    0.0000    1.0610    0.0001    0.0001    0.0426    0.0268    0.0938
+    0.0001    0.0000    1.0848    0.0001    0.0001    0.0423    0.0266    0.0938
+    0.0001    0.0000    1.1089    0.0001    0.0001    0.0420    0.0264    0.0939
+    0.0001    0.0000    1.1324    0.0001    0.0001    0.0417    0.0262    0.0939
+    0.0001    0.0000    1.1562    0.0001    0.0001    0.0415    0.0260    0.0940
+    0.0001    0.0000    1.1797    0.0001    0.0001    0.0413    0.0259    0.0940
+    0.0001    0.0000    1.2029    0.0001    0.0001    0.0410    0.0257    0.0941
+    0.0001    0.0000    1.2265    0.0001    0.0001    0.0408    0.0256    0.0941
+    0.0001    0.0000    1.2495    0.0001    0.0001    0.0406    0.0254    0.0941
+    0.0001    0.0000    1.2723    0.0001    0.0001    0.0404    0.0253    0.0942
+    0.0001    0.0000    1.2955    0.0001    0.0001    0.0402    0.0251    0.0942
+    0.0001    0.0000    1.3180    0.0001    0.0001    0.0400    0.0250    0.0943
+    0.0001    0.0000    1.3404    0.0001    0.0001    0.0398    0.0248    0.0943
+    0.0001    0.0000    1.3628    0.0001    0.0001    0.0396    0.0247    0.0943
+    0.0001    0.0000    1.3840    0.0001    0.0001    0.0394    0.0246    0.0944
+    0.0001    0.0000    1.4050    0.0001    0.0001    0.0393    0.0245    0.0944
+    0.0001    0.0000    1.4259    0.0001    0.0001    0.0391    0.0243    0.0944
+    0.0001    0.0000    1.4463    0.0001    0.0001    0.0389    0.0242    0.0945
+    0.0001    0.0000    1.4654    0.0001    0.0001    0.0388    0.0241    0.0945
+    0.0001    0.0000    1.4828    0.0001    0.0001    0.0386    0.0240    0.0945
+    0.0001    0.0000    1.4984    0.0001    0.0001    0.0385    0.0239    0.0946
+    0.0001    0.0000    1.5094    0.0001    0.0001    0.0383    0.0238    0.0946
+    0.0001    0.0000    1.5559    0.0001    0.0001    0.0382    0.0237    0.0946
+    0.0001    0.0000    1.5950    0.0001    0.0001    0.0381    0.0236    0.0946
+    0.0001    0.0000    1.6286    0.0001    0.0001    0.0380    0.0235    0.0947
+    0.0001    0.0000    1.6582    0.0001    0.0001    0.0378    0.0235    0.0947
+    0.0001    0.0000    1.6849    0.0001    0.0001    0.0379    0.0234    0.0947
+    0.0001    0.0000    1.7093    0.0001    0.0001    0.0378    0.0233    0.0947
+    0.0000    0.0000    1.7320    0.0001    0.0001    0.0378    0.0233    0.0948
+    0.0000    0.0000    1.7534    0.0001    0.0001    0.0379    0.0232    0.0948
+    0.0000    0.0000    1.7737    0.0001    0.0001    0.0386    0.0232    0.0948
+
+Beginning to optimize abatement and savings rates.
+
+Optimization completed: The relative <a href = "matlab: helpview('optim','first_order_opt_con','CSHelpWindow');">first-order optimality measure</a>, 3.454498e-07,
+is less than <a href = "matlab: helpview('optim','optimality_tolerance_msgcsh','CSHelpWindow');">options.OptimalityTolerance</a> = 1.000000e-06, and the relative maximum constraint
+violation, 8.414974e-11, is less than <a href = "matlab: helpview('optim','tol_con','CSHelpWindow');">options.ConstraintTolerance</a> = 1.000000e-10.
+
+Solved successfully
+Time spent optimizing: 0.52767 minutes.
+Max abs equality constraint is 8.415e-11
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_constraint-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+Beginning to optimize abatement and savings rates.
+
+Optimization completed: The relative <a href = "matlab: helpview('optim','first_order_opt_con','CSHelpWindow');">first-order optimality measure</a>, 4.015990e-08,
+is less than <a href = "matlab: helpview('optim','optimality_tolerance_msgcsh','CSHelpWindow');">options.OptimalityTolerance</a> = 1.000000e-06, and the relative maximum constraint
+violation, 8.746383e-12, is less than <a href = "matlab: helpview('optim','tol_con','CSHelpWindow');">options.ConstraintTolerance</a> = 1.000000e-10.
+
+Solved successfully
+Time spent optimizing: 1.5404 minutes.
+Max abs equality constraint is 8.7464e-12
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_constraint-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+Beginning to optimize abatement and savings rates.
+{Operation terminated by user during barrier
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('fmincon', '/Applications/MATLAB_R2023b.app/toolbox/shared/optimlib/fmincon.m', 891)" style="font-weight:bold">fmincon</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2023b.app/toolbox/shared/optimlib/fmincon.m',891,0)">line 891</a>)
+    [X,FVAL,EXITFLAG,OUTPUT,LAMBDA,GRAD,HESSIAN] = barrier(funfcn,X,A,B,Aeq,Beq,l,u,confcn,options.HessFcn, ...
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_dice2016r', '/Users/robert/Documents/GitHub/DICE-2016R-Matlab/main_dice2016r.m', 242)" style="font-weight:bold">main_dice2016r</a> (<a href="matlab: opentoline('/Users/robert/Documents/GitHub/DICE-2016R-Matlab/main_dice2016r.m',242,0)">line 242</a>)
+        [out_controls,fval,exitflag,outputstruct,lambdastruct,gradient,hessian] = fmincon(objective,guess(:),[],[],[],[],lb(:),ub(:),nonlcon,Params.optimize_options_list);
+} 
+main_dice2016r
+Warning: Are running with a 20-year timestep instead of a 5-year timestep, so linearized climate transitions are not perfect.
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_constraint-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+Beginning to optimize abatement and savings rates.
+
+Optimization completed: The relative <a href = "matlab: helpview('optim','first_order_opt_con','CSHelpWindow');">first-order optimality measure</a>, 1.381198e-07,
+is less than <a href = "matlab: helpview('optim','optimality_tolerance_msgcsh','CSHelpWindow');">options.OptimalityTolerance</a> = 1.000000e-06, and the relative maximum constraint
+violation, 4.450673e-11, is less than <a href = "matlab: helpview('optim','tol_con','CSHelpWindow');">options.ConstraintTolerance</a> = 1.000000e-10.
+
+Solved successfully
+Time spent optimizing: 0.067329 minutes.
+Max abs equality constraint is 4.4507e-11
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_constraint-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+{Unable to resolve the name 'params.L0'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('trajectory', '/Users/robert/Documents/GitHub/DICE-2016R-Matlab/trajectory.m', 45)" style="font-weight:bold">trajectory</a> (<a href="matlab: opentoline('/Users/robert/Documents/GitHub/DICE-2016R-Matlab/trajectory.m',45,0)">line 45</a>)
+        pop(t, 1) = params.L0
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('sub_loadguesses', '/Users/robert/Documents/GitHub/DICE-2016R-Matlab/sub_loadguesses.m', 50)" style="font-weight:bold">sub_loadguesses</a> (<a href="matlab: opentoline('/Users/robert/Documents/GitHub/DICE-2016R-Matlab/sub_loadguesses.m',50,0)">line 50</a>)
+[ C, ~, K, T, M, ~, Tocean, ~, ~] = trajectory( policyguess, 1, Params.horizon, Fun, Params );
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('run', '/Applications/MATLAB_R2023b.app/toolbox/matlab/lang/run.m', 99)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2023b.app/toolbox/matlab/lang/run.m',99,0)">line 99</a>)
+evalin('caller', strcat(script, ';'));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_dice2016r', '/Users/robert/Documents/GitHub/DICE-2016R-Matlab/main_dice2016r.m', 209)" style="font-weight:bold">main_dice2016r</a> (<a href="matlab: opentoline('/Users/robert/Documents/GitHub/DICE-2016R-Matlab/main_dice2016r.m',209,0)">line 209</a>)
+run sub_loadguesses;
+} 
+main_dice2016r
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_constraint-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+
+pop =
+
+        7403
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+
+{Index in position 1 is invalid. Array indices must be positive integers or logical values.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('trajectory', '/Users/robert/Documents/GitHub/DICE-2016R-Matlab/trajectory.m', 61)" style="font-weight:bold">trajectory</a> (<a href="matlab: opentoline('/Users/robert/Documents/GitHub/DICE-2016R-Matlab/trajectory.m',61,0)">line 61</a>)
+    pop(t, 1) = Fun.popnext(pop(t-1, 1), T(t, 1), -0.0001)
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('sub_loadguesses', '/Users/robert/Documents/GitHub/DICE-2016R-Matlab/sub_loadguesses.m', 50)" style="font-weight:bold">sub_loadguesses</a> (<a href="matlab: opentoline('/Users/robert/Documents/GitHub/DICE-2016R-Matlab/sub_loadguesses.m',50,0)">line 50</a>)
+[ C, ~, K, T, M, ~, Tocean, ~, ~] = trajectory( policyguess, 1, Params.horizon, Fun, Params );
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('run', '/Applications/MATLAB_R2023b.app/toolbox/matlab/lang/run.m', 99)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2023b.app/toolbox/matlab/lang/run.m',99,0)">line 99</a>)
+evalin('caller', strcat(script, ';'));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_dice2016r', '/Users/robert/Documents/GitHub/DICE-2016R-Matlab/main_dice2016r.m', 209)" style="font-weight:bold">main_dice2016r</a> (<a href="matlab: opentoline('/Users/robert/Documents/GitHub/DICE-2016R-Matlab/main_dice2016r.m',209,0)">line 209</a>)
+run sub_loadguesses;
+} 
+main_dice2016r
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_constraint-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+
+pop =
+
+        7403
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+
+{Index in position 1 is invalid. Array indices must be positive integers or logical values.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('trajectory', '/Users/robert/Documents/GitHub/DICE-2016R-Matlab/trajectory.m', 61)" style="font-weight:bold">trajectory</a> (<a href="matlab: opentoline('/Users/robert/Documents/GitHub/DICE-2016R-Matlab/trajectory.m',61,0)">line 61</a>)
+    pop(t, 1) = Fun.popnext(pop(t-1, 1), T(t, 1), -0.0001);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('sub_loadguesses', '/Users/robert/Documents/GitHub/DICE-2016R-Matlab/sub_loadguesses.m', 50)" style="font-weight:bold">sub_loadguesses</a> (<a href="matlab: opentoline('/Users/robert/Documents/GitHub/DICE-2016R-Matlab/sub_loadguesses.m',50,0)">line 50</a>)
+[ C, ~, K, T, M, ~, Tocean, ~, ~] = trajectory( policyguess, 1, Params.horizon, Fun, Params );
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('run', '/Applications/MATLAB_R2023b.app/toolbox/matlab/lang/run.m', 99)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2023b.app/toolbox/matlab/lang/run.m',99,0)">line 99</a>)
+evalin('caller', strcat(script, ';'));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_dice2016r', '/Users/robert/Documents/GitHub/DICE-2016R-Matlab/main_dice2016r.m', 209)" style="font-weight:bold">main_dice2016r</a> (<a href="matlab: opentoline('/Users/robert/Documents/GitHub/DICE-2016R-Matlab/main_dice2016r.m',209,0)">line 209</a>)
+run sub_loadguesses;
+} 
+main_dice2016r
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_constraint-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+{Unrecognized field name "pop".
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('trajectory', '/Users/robert/Documents/GitHub/DICE-2016R-Matlab/trajectory.m', 65)" style="font-weight:bold">trajectory</a> (<a href="matlab: opentoline('/Users/robert/Documents/GitHub/DICE-2016R-Matlab/trajectory.m',65,0)">line 65</a>)
+    Ynet(t,1) = Fun.Ynet(Params.tfp(periods_from_start,1),Params.pop(periods_from_start,1),K(t,1),T(t,1));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('sub_loadguesses', '/Users/robert/Documents/GitHub/DICE-2016R-Matlab/sub_loadguesses.m', 50)" style="font-weight:bold">sub_loadguesses</a> (<a href="matlab: opentoline('/Users/robert/Documents/GitHub/DICE-2016R-Matlab/sub_loadguesses.m',50,0)">line 50</a>)
+[ C, ~, K, T, M, ~, Tocean, ~, ~] = trajectory( policyguess, 1, Params.horizon, Fun, Params );
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('run', '/Applications/MATLAB_R2023b.app/toolbox/matlab/lang/run.m', 99)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2023b.app/toolbox/matlab/lang/run.m',99,0)">line 99</a>)
+evalin('caller', strcat(script, ';'));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_dice2016r', '/Users/robert/Documents/GitHub/DICE-2016R-Matlab/main_dice2016r.m', 209)" style="font-weight:bold">main_dice2016r</a> (<a href="matlab: opentoline('/Users/robert/Documents/GitHub/DICE-2016R-Matlab/main_dice2016r.m',209,0)">line 209</a>)
+run sub_loadguesses;
+} 
+main_dice2016r
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_constraint-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+{Unrecognized field name "pop".
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('trajectory', '/Users/robert/Documents/GitHub/DICE-2016R-Matlab/trajectory.m', 66)" style="font-weight:bold">trajectory</a> (<a href="matlab: opentoline('/Users/robert/Documents/GitHub/DICE-2016R-Matlab/trajectory.m',66,0)">line 66</a>)
+    abatecost(t,1) = Fun.abatecost(Params.psi(periods_from_start,1),abaterate(t,1),Params.tfp(periods_from_start,1),Params.pop(periods_from_start,1),K(t,1));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('sub_loadguesses', '/Users/robert/Documents/GitHub/DICE-2016R-Matlab/sub_loadguesses.m', 50)" style="font-weight:bold">sub_loadguesses</a> (<a href="matlab: opentoline('/Users/robert/Documents/GitHub/DICE-2016R-Matlab/sub_loadguesses.m',50,0)">line 50</a>)
+[ C, ~, K, T, M, ~, Tocean, ~, ~] = trajectory( policyguess, 1, Params.horizon, Fun, Params );
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('run', '/Applications/MATLAB_R2023b.app/toolbox/matlab/lang/run.m', 99)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2023b.app/toolbox/matlab/lang/run.m',99,0)">line 99</a>)
+evalin('caller', strcat(script, ';'));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_dice2016r', '/Users/robert/Documents/GitHub/DICE-2016R-Matlab/main_dice2016r.m', 209)" style="font-weight:bold">main_dice2016r</a> (<a href="matlab: opentoline('/Users/robert/Documents/GitHub/DICE-2016R-Matlab/main_dice2016r.m',209,0)">line 209</a>)
+run sub_loadguesses;
+} 
+main_dice2016r
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_constraint-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+{Unrecognized field name "pop".
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('trajectory', '/Users/robert/Documents/GitHub/DICE-2016R-Matlab/trajectory.m', 72)" style="font-weight:bold">trajectory</a> (<a href="matlab: opentoline('/Users/robert/Documents/GitHub/DICE-2016R-Matlab/trajectory.m',72,0)">line 72</a>)
+    C(t,1) = Ynet(t,1) - inv(t,1) - Fun.abatecost(Params.psi(periods_from_start,1),abaterate(t,1),Params.tfp(periods_from_start,1),Params.pop(periods_from_start,1),K(t,1));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('sub_loadguesses', '/Users/robert/Documents/GitHub/DICE-2016R-Matlab/sub_loadguesses.m', 50)" style="font-weight:bold">sub_loadguesses</a> (<a href="matlab: opentoline('/Users/robert/Documents/GitHub/DICE-2016R-Matlab/sub_loadguesses.m',50,0)">line 50</a>)
+[ C, ~, K, T, M, ~, Tocean, ~, ~] = trajectory( policyguess, 1, Params.horizon, Fun, Params );
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('run', '/Applications/MATLAB_R2023b.app/toolbox/matlab/lang/run.m', 99)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2023b.app/toolbox/matlab/lang/run.m',99,0)">line 99</a>)
+evalin('caller', strcat(script, ';'));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_dice2016r', '/Users/robert/Documents/GitHub/DICE-2016R-Matlab/main_dice2016r.m', 209)" style="font-weight:bold">main_dice2016r</a> (<a href="matlab: opentoline('/Users/robert/Documents/GitHub/DICE-2016R-Matlab/main_dice2016r.m',209,0)">line 209</a>)
+run sub_loadguesses;
+} 
+main_dice2016r
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_constraint-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+Beginning to optimize abatement and savings rates.
+{Unrecognized function or variable 'pop'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('utilityobjective', '/Users/robert/Documents/GitHub/DICE-2016R-Matlab/utilityobjective.m', 36)" style="font-weight:bold">utilityobjective</a> (<a href="matlab: opentoline('/Users/robert/Documents/GitHub/DICE-2016R-Matlab/utilityobjective.m',36,0)">line 36</a>)
+        pop = Fun.popnext(pop, T, -0.001);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_dice2016r>@(x)utilityobjective(x,1,Params.horizon,Fun,Params)', '/Users/robert/Documents/GitHub/DICE-2016R-Matlab/main_dice2016r.m', 215)" style="font-weight:bold">main_dice2016r>@(x)utilityobjective(x,1,Params.horizon,Fun,Params)</a> (<a href="matlab: opentoline('/Users/robert/Documents/GitHub/DICE-2016R-Matlab/main_dice2016r.m',215,0)">line 215</a>)
+objective = @(x) utilityobjective(x, 1, Params.horizon, Fun, Params);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('fmincon', '/Applications/MATLAB_R2023b.app/toolbox/shared/optimlib/fmincon.m', 572)" style="font-weight:bold">fmincon</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2023b.app/toolbox/shared/optimlib/fmincon.m',572,0)">line 572</a>)
+      [initVals.f,initVals.g] = feval(funfcn{3},X,varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_dice2016r', '/Users/robert/Documents/GitHub/DICE-2016R-Matlab/main_dice2016r.m', 242)" style="font-weight:bold">main_dice2016r</a> (<a href="matlab: opentoline('/Users/robert/Documents/GitHub/DICE-2016R-Matlab/main_dice2016r.m',242,0)">line 242</a>)
+        [out_controls,fval,exitflag,outputstruct,lambdastruct,gradient,hessian] = fmincon(objective,guess(:),[],[],[],[],lb(:),ub(:),nonlcon,Params.optimize_options_list);
+
+Caused by:
+    Failure in initial objective function evaluation. FMINCON cannot continue.
+} 
+main_dice2016r
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_constraint-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+Beginning to optimize abatement and savings rates.
+{Unrecognized field name "col_pop".
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('utilityobjective', '/Users/robert/Documents/GitHub/DICE-2016R-Matlab/utilityobjective.m', 35)" style="font-weight:bold">utilityobjective</a> (<a href="matlab: opentoline('/Users/robert/Documents/GitHub/DICE-2016R-Matlab/utilityobjective.m',35,0)">line 35</a>)
+        pop = controls(:,Params.col_pop);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_dice2016r>@(x)utilityobjective(x,1,Params.horizon,Fun,Params)', '/Users/robert/Documents/GitHub/DICE-2016R-Matlab/main_dice2016r.m', 215)" style="font-weight:bold">main_dice2016r>@(x)utilityobjective(x,1,Params.horizon,Fun,Params)</a> (<a href="matlab: opentoline('/Users/robert/Documents/GitHub/DICE-2016R-Matlab/main_dice2016r.m',215,0)">line 215</a>)
+objective = @(x) utilityobjective(x, 1, Params.horizon, Fun, Params);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('fmincon', '/Applications/MATLAB_R2023b.app/toolbox/shared/optimlib/fmincon.m', 572)" style="font-weight:bold">fmincon</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2023b.app/toolbox/shared/optimlib/fmincon.m',572,0)">line 572</a>)
+      [initVals.f,initVals.g] = feval(funfcn{3},X,varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_dice2016r', '/Users/robert/Documents/GitHub/DICE-2016R-Matlab/main_dice2016r.m', 242)" style="font-weight:bold">main_dice2016r</a> (<a href="matlab: opentoline('/Users/robert/Documents/GitHub/DICE-2016R-Matlab/main_dice2016r.m',242,0)">line 242</a>)
+        [out_controls,fval,exitflag,outputstruct,lambdastruct,gradient,hessian] = fmincon(objective,guess(:),[],[],[],[],lb(:),ub(:),nonlcon,Params.optimize_options_list);
+
+Caused by:
+    Failure in initial objective function evaluation. FMINCON cannot continue.
+} 

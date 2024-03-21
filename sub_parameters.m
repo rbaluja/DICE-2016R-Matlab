@@ -153,7 +153,7 @@ Fun.dabatecost_dabaterate = @(psi,abaterate,tfp,L,K) Params.abate_exp*psi.*(abat
 Fun.dabatecost_dK = @(psi,abaterate,tfp,L,K) Fun.abatecost(psi,abaterate,tfp,L,K).*Fun.dYgross_dK(tfp,L,K)./Fun.Ygross(tfp,L,K);
 
 % Exogenous transitions: t is number of periods, with t=1 being 2015
-Fun.popnext = @(L) L.*(Params.Linf./L).^Params.gL;
+Fun.popnext = @(L, T, a) L.*(Params.Linf./L).^(Params.gL + a .* T);
 Fun.gA = @(t) Params.gA0*exp(-Params.timestep*Params.deltaA*(t-1)); % deltaA is annual decline in growth rate, which matches DICE-2016R code although not parameter definition
 Fun.tfpnext = @(t,tfp) tfp./((1-Fun.gA(t)).^(Params.timestep/5)); % growth rate gA is defined per timestep
 Fun.gsigma = @(t) Params.gsigma0*((1+Params.deltasigma).^(Params.timestep*(t-1)));
@@ -260,13 +260,11 @@ Fun.mac = @(sigma,abaterate,Ygross,t) Params.abate_exp*Fun.psi(t,sigma).*(abater
           
 Params.discfactor = 1./((1+Params.discrate).^(Params.timestep*(0:Params.horizon-1)'));
 
-Params.pop(1,1) = Params.L0;
 Params.tfp(1,1) = Params.tfp0;
 Params.sigma(1,1) = Params.sigma0;
 Params.psi(1,1) = Fun.psi(1,Params.sigma(1,1));
 
 for t=2:Params.horizon
-    Params.pop(t,1) = Fun.popnext(Params.pop(t-1,1));
     Params.tfp(t,1) = Fun.tfpnext(t-1,Params.tfp(t-1,1));
     Params.sigma(t,1) = Fun.sigmanext(t-1,Params.sigma(t-1,1));
     Params.psi(t,1) = Fun.psi(t,Params.sigma(t,1));
