@@ -264,7 +264,7 @@ Params.tfp(1,1) = Params.tfp0;
 Params.sigma(1,1) = Params.sigma0;
 Params.psi(1,1) = Fun.psi(1,Params.sigma(1,1));
 
-Fun.popnext = @(t) -.75 *t^2 + 57*t + Params.L0;
+Fun.popnext = @(t) -.75 *t^2 + 7*t + Params.L0;
 for t=2:Params.horizon
     Params.pop(t,1) = Fun.popnext(t-1);
     Params.tfp(t,1) = Fun.tfpnext(t-1,Params.tfp(t-1,1));
