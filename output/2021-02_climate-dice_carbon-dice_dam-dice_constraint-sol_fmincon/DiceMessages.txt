@@ -3,3 +3,115 @@ DICE-2016R climate dynamics
 DICE-2016R carbon dynamics
 Damages from DICE-2016R
 Beginning to optimize abatement and savings rates.
+
+Optimization completed: The relative <a href = "matlab: helpview('optim','first_order_opt_con','CSHelpWindow');">first-order optimality measure</a>, 1.338223e-07,
+is less than <a href = "matlab: helpview('optim','optimality_tolerance_msgcsh','CSHelpWindow');">options.OptimalityTolerance</a> = 1.000000e-06, and the relative maximum constraint
+violation, 7.900128e-11, is less than <a href = "matlab: helpview('optim','tol_con','CSHelpWindow');">options.ConstraintTolerance</a> = 1.000000e-10.
+
+Solved successfully
+Time spent optimizing: 1.362 minutes.
+Max abs equality constraint is 7.9001e-11
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_constraint-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+Beginning to optimize abatement and savings rates.
+
+Optimization completed: The relative <a href = "matlab: helpview('optim','first_order_opt_con','CSHelpWindow');">first-order optimality measure</a>, 1.288219e-07,
+is less than <a href = "matlab: helpview('optim','optimality_tolerance_msgcsh','CSHelpWindow');">options.OptimalityTolerance</a> = 1.000000e-06, and the relative maximum constraint
+violation, 2.535675e-11, is less than <a href = "matlab: helpview('optim','tol_con','CSHelpWindow');">options.ConstraintTolerance</a> = 1.000000e-10.
+
+Solved successfully
+Time spent optimizing: 1.5934 minutes.
+Max abs equality constraint is 2.5357e-11
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_constraint-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+Beginning to optimize abatement and savings rates.
+
+Optimization completed: The relative <a href = "matlab: helpview('optim','first_order_opt_con','CSHelpWindow');">first-order optimality measure</a>, 1.338223e-07,
+is less than <a href = "matlab: helpview('optim','optimality_tolerance_msgcsh','CSHelpWindow');">options.OptimalityTolerance</a> = 1.000000e-06, and the relative maximum constraint
+violation, 7.900128e-11, is less than <a href = "matlab: helpview('optim','tol_con','CSHelpWindow');">options.ConstraintTolerance</a> = 1.000000e-10.
+
+Solved successfully
+Time spent optimizing: 1.3402 minutes.
+Max abs equality constraint is 7.9001e-11
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_constraint-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+Beginning to optimize abatement and savings rates.
+
+Optimization completed: The relative <a href = "matlab: helpview('optim','first_order_opt_con','CSHelpWindow');">first-order optimality measure</a>, 1.501569e-08,
+is less than <a href = "matlab: helpview('optim','optimality_tolerance_msgcsh','CSHelpWindow');">options.OptimalityTolerance</a> = 1.000000e-06, and the relative maximum constraint
+violation, 7.845569e-12, is less than <a href = "matlab: helpview('optim','tol_con','CSHelpWindow');">options.ConstraintTolerance</a> = 1.000000e-10.
+
+Solved successfully
+Time spent optimizing: 1.2233 minutes.
+Max abs equality constraint is 7.8456e-12
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_constraint-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+Beginning to optimize abatement and savings rates.
+
+Optimization completed: The relative <a href = "matlab: helpview('optim','first_order_opt_con','CSHelpWindow');">first-order optimality measure</a>, 1.453939e-07,
+is less than <a href = "matlab: helpview('optim','optimality_tolerance_msgcsh','CSHelpWindow');">options.OptimalityTolerance</a> = 1.000000e-06, and the relative maximum constraint
+violation, 8.070167e-11, is less than <a href = "matlab: helpview('optim','tol_con','CSHelpWindow');">options.ConstraintTolerance</a> = 1.000000e-10.
+
+Solved successfully
+Time spent optimizing: 1.4697 minutes.
+Max abs equality constraint is 8.0702e-11
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_constraint-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+Beginning to optimize abatement and savings rates.
+
+Optimization completed: The relative <a href = "matlab: helpview('optim','first_order_opt_con','CSHelpWindow');">first-order optimality measure</a>, 3.377022e-08,
+is less than <a href = "matlab: helpview('optim','optimality_tolerance_msgcsh','CSHelpWindow');">options.OptimalityTolerance</a> = 1.000000e-06, and the relative maximum constraint
+violation, 1.490167e-11, is less than <a href = "matlab: helpview('optim','tol_con','CSHelpWindow');">options.ConstraintTolerance</a> = 1.000000e-10.
+
+Solved successfully
+Time spent optimizing: 1.4363 minutes.
+Max abs equality constraint is 1.4902e-11
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_constraint-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+Beginning to optimize abatement and savings rates.
+
+Optimization completed: The relative <a href = "matlab: helpview('optim','first_order_opt_con','CSHelpWindow');">first-order optimality measure</a>, 2.180265e-07,
+is less than <a href = "matlab: helpview('optim','optimality_tolerance_msgcsh','CSHelpWindow');">options.OptimalityTolerance</a> = 1.000000e-06, and the relative maximum constraint
+violation, 9.336460e-11, is less than <a href = "matlab: helpview('optim','tol_con','CSHelpWindow');">options.ConstraintTolerance</a> = 1.000000e-10.
+
+Solved successfully
+Time spent optimizing: 1.367 minutes.
+Max abs equality constraint is 9.3365e-11
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_constraint-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+Beginning to optimize abatement and savings rates.
+
+Optimization completed: The relative <a href = "matlab: helpview('optim','first_order_opt_con','CSHelpWindow');">first-order optimality measure</a>, 1.527810e-08,
+is less than <a href = "matlab: helpview('optim','optimality_tolerance_msgcsh','CSHelpWindow');">options.OptimalityTolerance</a> = 1.000000e-06, and the relative maximum constraint
+violation, 1.199344e-11, is less than <a href = "matlab: helpview('optim','tol_con','CSHelpWindow');">options.ConstraintTolerance</a> = 1.000000e-10.
+
+Solved successfully
+Time spent optimizing: 1.3856 minutes.
+Max abs equality constraint is 1.1993e-11
+Saving to /Users/robert/Documents/GitHub/DICE-2016R-Matlab/output/2021-02_climate-dice_carbon-dice_dam-dice_constraint-sol_fmincon/
+DICE-2016R climate dynamics
+DICE-2016R carbon dynamics
+Damages from DICE-2016R
+Beginning to optimize abatement and savings rates.
+
+Optimization completed: The relative <a href = "matlab: helpview('optim','first_order_opt_con','CSHelpWindow');">first-order optimality measure</a>, 4.802653e-07,
+is less than <a href = "matlab: helpview('optim','optimality_tolerance_msgcsh','CSHelpWindow');">options.OptimalityTolerance</a> = 1.000000e-06, and the relative maximum constraint
+violation, 6.055606e-12, is less than <a href = "matlab: helpview('optim','tol_con','CSHelpWindow');">options.ConstraintTolerance</a> = 1.000000e-10.
+
+Solved successfully
+Time spent optimizing: 1.6096 minutes.
+Max abs equality constraint is 6.0556e-12
